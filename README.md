@@ -2,9 +2,9 @@
 I'm a aspiring junior front-end developer. Pixel perfect web design and component based architecture enthusiast. I make it modular and nice to use with a touch of creativity. Feel free to contact me in any shape and form you'd like to.
 
 ## Let's stay in touch :speech_balloon:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg"/>][twitter]
+[<img align="left" alt="Email" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg"/>][gmail]
+[<img align="left" alt="LinkedIn" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>][linkedin]
 <br />
 
 ## Technology Stack 🛠 <!-- No Github syntax for this emoji -->
