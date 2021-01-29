@@ -3,10 +3,9 @@ I'm a aspiring junior front-end developer. Pixel perfect web design and componen
 
 ## Let's stay in touch :speech_balloon:
 [<img align="left" alt="Twitter" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg"/>][twitter]
-[<img align="left" alt="DeviantArt" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/145/145800.svg"/>][deviantart]
 [<img align="left" alt="Email" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg"/>][gmail]
+[<img align="left" alt="DeviantArt" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/145/145800.svg"/>][deviantart]
 [<img align="left" alt="LinkedIn" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>][linkedin]
-<br />
 
 ## Technology Stack 🛠 <!-- No Github syntax for this emoji -->
 [![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)][github]&nbsp;
