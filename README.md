@@ -1,8 +1,9 @@
 # Hi, it's Sobek!
-I'm a aspiring junior front-end developer. Pixel perfect web design and component based architecture enthusiast. I make it modular and nice to use with a touch of creativity. Feel free to contact me in any shape and form you'd like to.
+I'm a aspiring junior front-end developer. Pixel perfect web design and component based architecture addict. I make it modular and nice to use with a touch of creativity. Feel free to contact me in any shape and form you'd like to.
 
 ## Let's stay in touch :speech_balloon:
 [<img align="left" alt="Twitter" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg"/>][twitter]
+[<img align="left" alt="DeviantArt" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/145/145800.svg"/>][deviantart]
 [<img align="left" alt="Email" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg"/>][gmail]
 [<img align="left" alt="LinkedIn" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>][linkedin]
 <br />
@@ -29,5 +30,6 @@ I'm a aspiring junior front-end developer. Pixel perfect web design and componen
 <!-- Links assigned here for clarity -->
 [github]: https://github.com/sobekcore/
 [twitter]: https://twitter.com/SobekCore/
+[deviantart]: https://www.deviantart.com/sobekcore/
 [gmail]: mailto:sobekcore@gmail.com
 [linkedin]: https://www.linkedin.com/in/dawid-sobotka/
