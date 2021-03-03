@@ -25,7 +25,7 @@ I'm a aspiring junior front-end developer. Pixel perfect web design and componen
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)][github]&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)][github]&nbsp;
 [![AdobeXD](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=adobe%20xd)][github]&nbsp;
-[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)][github]&nbsp;
+[![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)][github]&nbsp;
 
 <!-- Links assigned here for clarity -->
 [github]: https://github.com/sobekcore/
