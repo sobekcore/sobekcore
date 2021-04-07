@@ -1,5 +1,5 @@
 # Hi, it's Sobek!
-I'm David, a aspiring junior front-end developer. I make pixel perfect web design which is modular and nice to use with a touch of creativity. Feel free to contact me in any shape and form you'd like to.
+I'm David, a aspiring junior front-end developer. I make pixel perfect web design which is modular and nice to use with a touch of creativity. Feel free to contact me in any shape and form you'd like to, im up to everything.
 
 ## Technology Stack 🛠 <!-- No Github syntax for this emoji -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)</a>
@@ -31,6 +31,7 @@ I'm David, a aspiring junior front-end developer. I make pixel perfect web desig
 <br />
 
 ## Let's stay in touch :speech_balloon:
+<a href="https://www.sobekcore.com/" target="_blank"><img align="left" alt="Portfolio" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/996/996334.svg" /></a>
 <a href="https://twitter.com/sobekcore/" target="_blank"><img align="left" alt="Twitter" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" /></a>
 <a href="mailto:sobekcore@gmail.com"><img align="left" alt="Email" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /></a>
 <a href="https://www.deviantart.com/sobekcore/" target="_blank"><img align="left" alt="DeviantArt" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/145/145800.svg" /></a>
