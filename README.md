@@ -1,5 +1,5 @@
 # Hello, everyone! :wave:
-My name is David Sobotka, i'm a Software Developer that specializes on the Frontend. I come from and live in Poland, currently working at [Soulab](https://soulab.dev/en/home). That'd be about it – talk is cheap.
+My name is Dawid Sobótka, i'm a Software Developer that specializes on the Frontend. I come from and live in Poland, currently working at [Soulab](https://soulab.dev/en/home). That'd be about it – talk is cheap.
 
 ## Let's stay in touch
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-24292f?style=flat&logo=googlechrome&logoColor=white)](https://www.sobekcore.com)
