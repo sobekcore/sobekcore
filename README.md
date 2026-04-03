@@ -1,5 +1,5 @@
 # Hello, everyone! :wave:
-My name is Dawid Sobotka, i'm a Software Engineer that specializes on the Frontend. I come from and live in Poland, currently working at [Bamboo Health](https://bamboohealth.com). That'd be about it – talk is cheap, let me show you the code.
+I'm Dawid Sobotka, a Senior Software Engineer at [Bamboo Health](https://bamboohealth.com). Working across the full stack – designing scalable systems, developing reliable REST APIs, and creating polished frontend experiences. Living and working in Poland.
 
 ## Let's stay in touch
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-24292f?style=flat&logo=googlechrome&logoColor=white)](https://www.sobekcore.com)
